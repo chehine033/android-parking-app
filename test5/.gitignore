@@ -1,0 +1,70 @@
+# Gradle files
+.gradle/
+build/
+
+# Ignore Gradle Wrapper files
+!gradle/wrapper/gradle-wrapper.jar
+gradle-wrapper.jar
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# NetBeans files
+nbproject/private/
+build/
+
+# VS Code files
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Compiled Java files
+*.class
+
+# Gradle caches and logs
+.caches/
+.gradle/
+!**/src/main/
+!**/src/test/
+
+# JetBrains specific files
+.idea/
+*.iws
+*.ipr
+
+# Android Studio files
+.gradle/
+local.properties
+*.iml
+.idea/
+build/
+
+
+# Node.js files
+node_modules/
+npm-debug.log
+yarn-error.log

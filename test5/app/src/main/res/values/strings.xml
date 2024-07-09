@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LoginAndSignUp</string>
+    <string name="title_activity_aaa">AaaActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hello ,</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="creditcarddetailsmanagement">credit card modification</string>
+    <string name="creditcardnum">New credit card number</string>
+    <string name="creditcardpwd">New credit card 8 digits password</string>
+    <string name="creditpwdconfirm">password</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="modify">modify</string>
+    <string name="lines_acc_details_text">account details</string>
+    <string name="lines_creditcard_details_text">credit card details</string>
+    <string name="lines_settings_text">Settings</string>
+    <string name="lines_contact_text">Contact</string>
+
+
+    <string name="detailsEmail">E-mail</string>
+    <string name="detailsemptyEmail">insert E-mail from database</string>
+    <string name="detailsfull_name">Full name</string>
+    <string name="detailsemptyfull_name">insert Full name from database</string>
+    <string name="detailspassword">password</string>
+    <string name="detailsemptypassword">make "*" based on the number of letters in the password from the database</string>
+    <string name="detailsphone">phone</string>
+    <string name="detailsemptyphone">phone from database</string>
+
+
+
+    <string name="maggiIngredient">parki1</string>)
+     <string name="maggieDesc">parking2</string>)
+    <string name="drawable.maggi">parking3</string>
+</resources>
